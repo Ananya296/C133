@@ -1,0 +1,53 @@
+#header
+{
+    width: 100%;
+    margin-top: 1px;
+    height: 48px;
+    font-size: 24px;
+    text-align: center;
+}
+
+body
+{
+    background-size: cover;
+}
+
+#back
+{
+    background-color: black;
+    color: white;
+    margin-left: 93%;
+    margin-top: 6px;
+    height: 39px;
+    width: 65px;
+    font-size: 19px;
+}
+
+.buttons
+{
+    height: 39px;
+    font-size: 19px;
+    text-align: center;
+}
+
+#status
+{
+    width: 290px;
+    margin-left: 37%;
+}
+
+#objDetector
+{
+    width: 490px;
+    margin-left: 28%;
+}
+
+canvas
+{
+    background-color: blanchedalmond;
+    box-shadow: darkgray;
+    margin-left: 274px;
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 50px;
+}
